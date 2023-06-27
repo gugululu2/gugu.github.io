@@ -1,0 +1,23 @@
+html{
+    background-color:#00539F;
+}
+p {
+  color: blue;
+}
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+body{
+    width: 600px;
+background-color: bisque;
+padding: 0 20px 20px 20px;
+border: 5px solid black;
+margin: 0 auto;
+}
+h1{color: blueviolet;
+text-align: center;
+margin: 0;
+text-shadow: 1px 3px 2px yellow;
+}
